@@ -1,0 +1,11 @@
+C:\Users\Windows10\Source\Repos\Library1\bin\Debug\Library1.exe.config
+C:\Users\Windows10\Source\Repos\Library1\bin\Debug\Library1.exe
+C:\Users\Windows10\Source\Repos\Library1\bin\Debug\Library1.pdb
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.csprojAssemblyReference.cache
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.FMain.resources
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.Flogin.resources
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.Properties.Resources.resources
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.csproj.GenerateResource.cache
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.exe
+C:\Users\Windows10\Source\Repos\Library1\obj\Debug\Library1.pdb
